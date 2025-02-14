@@ -1,0 +1,9 @@
+Ini adalah file teks sederhana.
+
+Kamu bisa menambahkan file ini ke GitHub menggunakan perintah Git seperti:
+
+1. `git add text.txt`
+2. `git commit -m "Menambahkan file teks sederhana"`
+3. `git push origin main`
+
+Semoga berhasil!
