@@ -7,3 +7,5 @@ Kamu bisa menambahkan file ini ke GitHub menggunakan perintah Git seperti:
 3. `git push origin main`
 
 Semoga berhasil!
+
+sangat easy pizzy co
